@@ -1,7 +1,7 @@
 # Simple.Linear.Regression
 
 Simple linear regression example from TowardsDataScience.com
-
+<br>
 https://towardsdatascience.com/machine-learning-basics-simple-linear-regression-bc83c01baa07
 
 1)Get our data set
